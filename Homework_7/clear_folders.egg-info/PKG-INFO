@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: clear-folders
+Version: 1.0.0
+Summary: sorts the folder you want
+Home-page: https://github.com/Pavlik-Ravlik
+Author: Pavlik-Ravlik
+Author-email: pastet1990@icloud.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE

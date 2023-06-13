@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+clear_folders.egg-info/PKG-INFO
+clear_folders.egg-info/SOURCES.txt
+clear_folders.egg-info/dependency_links.txt
+clear_folders.egg-info/entry_points.txt
+clear_folders.egg-info/top_level.txt
+sort_folder/__init__.py
+sort_folder/sort.py

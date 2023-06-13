@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "name": "mama",
+            "phones": [
+                {
+                    "value": "380672602355"
+                }
+            ]
+        },
+        {
+            "name": "papa",
+            "phones": [
+                {
+                    "value": "380675870932"
+                }
+            ]
+        },
+        {
+            "name": "Dmutro",
+            "phones": [
+                {
+                    "value": "380933432270"
+                }
+            ]
+        }
+    ]
+}
