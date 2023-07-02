@@ -2,7 +2,7 @@ from collections import UserDict
 from datetime import date, datetime
 import json
 
-filename = 'contacts.json'
+filename = 'Homework_12/contacts.json'
 
 
 class Field():
